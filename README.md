@@ -7,4 +7,4 @@ Another script does the same with a cube. You only need to introduce the center 
 
 Ich bin ChatGPT dankbar für die Unterstützung beim Programmieren.
 
-Please, see the ecplanation video [https://youtu.be/ebAErG_yx0s](https://youtu.be/ebAErG_yx0s)
+Please, see the explanation video [https://youtu.be/ebAErG_yx0s](https://youtu.be/ebAErG_yx0s)
